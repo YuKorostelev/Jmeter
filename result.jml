@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1660223811280,1572,Авторизация,200,OK,Thread Group 1-1,text,true,,377,249,1,1,https://partner.agentapp.ru/v1/users/obtain-token,1565,0,1355
+1660223812962,61,Создание водителя,201,Created,Thread Group 1-1,text,true,,853,604,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,61,0,0
+1660223813221,136,Авторизация,200,OK,Thread Group 1-1,text,true,,377,249,1,1,https://partner.agentapp.ru/v1/users/obtain-token,136,0,0
+1660223813472,91,Создание водителя,201,Created,Thread Group 1-1,text,true,,853,604,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,91,0,0
+1660223813713,258,Авторизация,200,OK,Thread Group 1-1,text,true,,377,249,1,1,https://partner.agentapp.ru/v1/users/obtain-token,258,0,0
+1660223813972,103,Создание водителя,201,Created,Thread Group 1-1,text,true,,853,604,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,103,0,0
+1660223814215,165,Авторизация,200,OK,Thread Group 1-1,text,true,,377,249,1,1,https://partner.agentapp.ru/v1/users/obtain-token,165,0,0
+1660223814475,113,Создание водителя,201,Created,Thread Group 1-1,text,true,,853,604,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,112,0,0
